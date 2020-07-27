@@ -27,4 +27,4 @@ Bem vindo ao meu github! Meu nome é Lucas, sou desenvolvedor desde 2019. Espero
  
  
  
- ## ⬇ Veja alguns dos meus repositórios abaixo ⬇
+ ##           ⬇ Veja alguns dos meus repositórios abaixo ⬇
