@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá 🤙🤙🤙
 
-<!--
-**lukkanog/lukkanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo ao meu github! Meu nome é Lucas, sou desenvolvedor desde 2019. Espero que goste e volte sempre :)
 
-Here are some ideas to get you started:
+- 🔭 Atualmente atuando como Aprendiz Técnico de Desenvolvimento de Sistemas pelo SESI
+- 👨‍🎓 Técnico de desenvolvimento de sistemas pela Escola SENAI de Informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 O que você vai encontrar por aqui:
+- React.js
+- C# ASP.NET MVC
+- C# ASP.NET API
+- HTML5
+- CSS3
+- Javascript
+- React Native
+- SQL Server
+- MongoDB
+
+### 📫 Contato:
+-  📧 lukanog@hotmail.com
+-  Linkedin:  https://linkedin.com/in/lucas-nogueira-de-souza
+ 
