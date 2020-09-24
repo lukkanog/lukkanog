@@ -1,6 +1,6 @@
 # Olá! 🤙🤙
 
-Bem vindo ao meu github! Meu nome é Lucas, sou desenvolvedor desde 2019. Espero que goste e volte sempre :)
+Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019.
 
 🔭 Atualmente atuando como Aprendiz Técnico de Desenvolvimento de Sistemas pelo SESI
 
