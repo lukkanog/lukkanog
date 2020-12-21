@@ -6,9 +6,9 @@ Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019.
 
 👨‍🎓 Técnico de desenvolvimento de sistemas pela Escola SENAI de Informática
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukkanog&show_icons=true&theme=radical&hide=issues,prs&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukkanog&show_icons=true&theme=radical&hide=issues,prs&count_private=true&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkanog&theme=radical&layout=compact)](https://github.com/lukkanog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkanog&theme=radical&layout=compact&locale=pt-br)](https://github.com/lukkanog/github-readme-stats)
 
 
 
