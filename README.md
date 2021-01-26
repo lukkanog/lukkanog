@@ -14,15 +14,6 @@ Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019.
 
 
 ### O que você vai encontrar por aqui:
-- React.js
-- C# ASP.NET MVC
-- C# ASP.NET API
-- HTML5
-- CSS3
-- Javascript
-- React Native
-- SQL Server
-- MongoDB
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
