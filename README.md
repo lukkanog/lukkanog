@@ -1,10 +1,7 @@
 # Olá!   =)
 
-Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019.
+Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019 e tenho interesse tanto em Back-end como em Front-end.
 
-🔭 Atualmente atuando como Aprendiz Técnico de Desenvolvimento de Sistemas pelo SESI
-
-👨‍🎓 Técnico de desenvolvimento de sistemas pela Escola SENAI de Informática
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukkanog&show_icons=true&theme=radical&hide=issues,prs&count_private=true&locale=pt-br)
 
