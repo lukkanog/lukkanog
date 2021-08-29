@@ -35,6 +35,4 @@ Bem vindo ao meu github! Meu nome é Lucas, comecei a desenvolver em 2019 e tenh
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lukanog@hotmail.com)
  
  
- 
-<!--  ##           ⬇ Veja alguns dos meus repositórios abaixo ⬇
- -->
+
